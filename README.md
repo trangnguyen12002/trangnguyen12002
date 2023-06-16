@@ -8,7 +8,7 @@
 
 I'm a full-stack developer and data scientist at UC Berkeley. I grew up in Ho Chi Minh City, Vietnam. In my free time, I like developing interactive fiction games and watching [films](https://letterboxd.com/chimtrangmocoi/films/reviews/).
 
-* 🔭 I'm currently building a machine learning Opportunity Score model at [NetApp](https://www.netapp.com/).
+* 🔭 I'm currently building a machine learning Opportunity Scoring model at [NetApp](https://www.netapp.com/).
 * 🌱 I design a lot! I'm the creator of Spaciousness, a game loosely adapted from Pablo Neruda’s “Sonnet XVI”. Last year, I developed a rogue-like dungeon game called Frog, in celebration of my learning Java and my love for anything frog-related. 
 * ✨ Fun fact: If I'm not training models or developing games, I'm most likely listening to True Crimes on Tiktok. 
 
